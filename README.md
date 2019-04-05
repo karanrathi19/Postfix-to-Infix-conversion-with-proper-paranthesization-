@@ -4,11 +4,11 @@ Postfix: An expression is called the postfix expression if the operator appears 
 
 Infix : The expression of the form a op b. When an operator is in-between every pair of operands.
 
-#Implementation:
+# Implementation:
 
 I have implemented postfix to infix conversion(with proper paranthesization) using Stack.
 
-#Algorithm:
+# Algorithm:
 
 1. While there are input symbol left
 2.  	Read the next symbol from input
